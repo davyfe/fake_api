@@ -1,0 +1,48 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "titulo": "Estou fazendo uma reformulação do projeto! :P",
+      "autor": "davyf",
+      "tempo": "30 minutos",
+      "conteudo": "Recentemente fiz uma tela para apresentação de Programação Móvel, na terça-feira passada, funcionou bem, porém o design me incomodou um pouco. Por isso, agora estou a reformulando, melhorando aspectos tanto do design quando do código.",
+      "likes": 26,
+      "comentarios": 5,
+      "anexo": 0,
+      "urlImagem": null
+    },
+    {
+      "id": 2,
+      "titulo": "Rio de Janeiro, RJ, Brasil.",
+      "autor": "pdrolopes",
+      "tempo": "1 dia",
+      "conteudo": null,
+      "likes": 504,
+      "comentarios": 230,
+      "anexo": 0,
+      "urlImagem": "https://www.daninoce.com.br/wp-content/uploads/2017/07/9-vistas-incriveis-no-rio-de-janeiro-danielle-noce-imagem-destaque.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Achei esse livro fantástico pra ajudar nos estudos!",
+      "autor": "sabynna.louyse",
+      "tempo": "1 hora",
+      "conteudo": null,
+      "likes": 60,
+      "comentarios": 3,
+      "anexo": 1,
+      "urlImagem": null
+    },
+    {
+      "id": 4,
+      "titulo": "Meu computador não está funcionando... Alguém sabe o que pode ser?",
+      "autor": "duarte.geh",
+      "tempo": "2 segundos",
+      "conteudo": null,
+      "likes": 0,
+      "comentarios": 0,
+      "anexo": 0,
+      "urlImagem": null
+    }
+  ],
+}
