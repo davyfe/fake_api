@@ -1,6 +1,7 @@
 {
   "evento": [
     {
+      "id": "1",
       "titulo": "IV Semana Nacional de Ciência e Tecnologia",
       "data": "30/03/2026",
       "horario": "8:30",
@@ -11,6 +12,7 @@
       "cor": "lightBlueAccent"
     },
     {
+      "id": "2",
       "titulo": "Semana do Meio Ambiente 2026",
       "data": "10/06/2026",
       "horario": "9:30",
@@ -21,6 +23,7 @@
       "cor": "lightGreen"
     },
     {
+      "id": "3",
       "titulo": "Abril Índigena",
       "data": "16/04/2026",
       "horario": "9:30",
@@ -31,6 +34,7 @@
       "cor": "redAccent"
     },
     {
+      "id": "4",
       "titulo": "V Festival de Arte",
       "data": "04/12/2024",
       "horario": "8:00",
