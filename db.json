@@ -97,38 +97,38 @@
     {
       "id": 1,
       "titulo": "IV Semana Nacional de Ciência e Tecnologia",
-      "data": "30/03/2026",
+      "data": "30/03",
       "horario": "8:30",
       "local": "Ifal Campus Arapiraca",
       "autor": "Adriana Santana",
-      "cor": 4282434815
+      "cor": 4288766170
     },
     {
       "id": 2,
       "titulo": "Semana do Meio Ambiente 2026",
-      "data": "10/06/2026",
+      "data": "10/06",
       "horario": "9:30",
       "local": "Ifal Campus Arapiraca",
       "autor": "Comissão de Meio Ambiente",
-      "cor": 4287349578
+      "cor": 4280713450
     },
     {
       "id": 3,
       "titulo": "Abril Índigena",
-      "data": "16/04/2026",
+      "data": "16/04",
       "horario": "9:30",
       "local": "Ifal Campus Arapiraca",
       "autor": "Sante",
-      "cor": 4294922834
+      "cor": 4293954838
     },
     {
       "id": 4,
       "titulo": "V Festival de Arte",
-      "data": "04/12/2024",
+      "data": "04/12",
       "horario": "8:00",
       "local": "Ifal Campus Penedo",
       "autor": "Comissão de Arte",
-      "cor": 4294961979
+      "cor": 4294912563
     }
   ]
 }
