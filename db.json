@@ -101,8 +101,6 @@
       "horario": "8:30",
       "local": "Ifal Campus Arapiraca",
       "autor": "Adriana Santana",
-      "iconCodePoint": 57918,
-      "iconFontFamily": "MaterialIcons",
       "cor": 4282434815
     },
     {
@@ -112,8 +110,6 @@
       "horario": "9:30",
       "local": "Ifal Campus Arapiraca",
       "autor": "Comissão de Meio Ambiente",
-      "iconCodePoint": 59957,
-      "iconFontFamily": "MaterialIcons",
       "cor": 4287349578
     },
     {
@@ -123,8 +119,6 @@
       "horario": "9:30",
       "local": "Ifal Campus Arapiraca",
       "autor": "Sante",
-      "iconCodePoint": 57918,
-      "iconFontFamily": "MaterialIcons",
       "cor": 4294922834
     },
     {
@@ -134,8 +128,6 @@
       "horario": "8:00",
       "local": "Ifal Campus Penedo",
       "autor": "Comissão de Arte",
-      "iconCodePoint": 58475,
-      "iconFontFamily": "MaterialIcons",
       "cor": 4294961979
     }
   ]
