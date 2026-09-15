@@ -130,5 +130,40 @@
       "autor": "Comissão de Arte",
       "cor": 4294912563
     }
+  ],
+  "emprestimo": [
+    {
+      "id": 1,
+      "tituloLivro": "Dom Casmurro",
+      "autorLivro": "Machado de Assis",
+      "capaUrl": "https://covers.openlibrary.org/b/isbn/9788508107476-M.jpg",
+      "isbn": "9788508107476",
+      "dataEmprestimo": "01/09/2026",
+      "dataPrevista": "15/09/2026",
+      "dataDevolucao": null,
+      "renovacoes": 0
+    },
+    {
+      "id": 2,
+      "tituloLivro": "1984",
+      "autorLivro": "George Orwell",
+      "capaUrl": "https://covers.openlibrary.org/b/isbn/9788535914849-M.jpg",
+      "isbn": "9788535914849",
+      "dataEmprestimo": "20/08/2026",
+      "dataPrevista": "03/09/2026",
+      "dataDevolucao": null,
+      "renovacoes": 1
+    },
+    {
+      "id": 3,
+      "tituloLivro": "O Cortiço",
+      "autorLivro": "Aluísio Azevedo",
+      "capaUrl": "https://covers.openlibrary.org/b/isbn/9788508162468-M.jpg",
+      "isbn": "9788508162468",
+      "dataEmprestimo": "10/07/2026",
+      "dataPrevista": "24/07/2026",
+      "dataDevolucao": "22/07/2026",
+      "renovacoes": 0
+    }
   ]
 }
